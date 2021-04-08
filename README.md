@@ -33,5 +33,5 @@
 
 <img src="img/grappling_hook.PNG" title="WebGl Build">
 
-**Modification**: _Instead of have grappling hook retract after letting go of the left click I made it permanent until the user presses the space bar._
+**Modification**: _Instead of have grappling hook retract after letting go of the left click I made it permanent until the user presses the space bar or shoots another grappling hook._
 [Link to WebGL build](https://noshokri-1925832.github.io/Unity-Basics/build_wasd_webgl/)
