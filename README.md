@@ -4,7 +4,7 @@
 
 <img src="img/wasd.PNG" title="WebGl Build">
 
-**Modification**: _Added diagonal movement with the use of the qezc keys.
+**Modification**: _Added diagonal movement with the use of the qezc keys._
 
 [Link to WebGL build](https://noshokri-1925832.github.io/Unity-Basics/build_wasd_webgl/)
 
